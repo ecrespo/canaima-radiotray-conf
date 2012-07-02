@@ -1,0 +1,15 @@
+<bookmarks>
+    <group name="Venezuela">
+	<bookmark name="RNV Canal Clásico" url="http://www.telepuertovirtual2.tv/rnvclasico "/>
+	<bookmark name="AlbaCiudad 96.3" url="http://albaciudad96.org/radio/"/>
+	<bookmark name="RNV noticias" url="http://www.telepuertovirtual2.tv/rnvnoticias"/>
+	<bookmark name="Radio Mágica 106.3 FM" url="http://resorte.solve.web.ve:8000/magicafm.ogg "/>
+	
+    </group>
+    <group name="Linux">
+	<bookmark name="SOLVE" url="http://resorte.solve.web.ve:8000/RadioSolve.ogg"/>
+	<bookmark name="Radio Cooperativa Tecnológica Somos Libre Barinas" url="http://resorte.solve.web.ve:8000/RadioSLBarinas.ogg"/>
+	<bookmark name="Radio entreHackers" url="http://resorte.solve.web.ve:8000/entrehackers.ogg"/>
+	<bookmark name="Radio enredate" url="http://resorte.solve.web.ve:8000/enredate.ogg"/>
+    </group>
+</bookmarks>

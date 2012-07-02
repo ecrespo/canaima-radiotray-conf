@@ -1,0 +1,49 @@
+canaima-radiotray-conf (1:0.5-3) unstable; urgency=low
+
+  * Fix bookmarks name.
+  * Change radiotray directory to files directory.
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Mon, 02 Jul 2012 16:47:44 -0430
+
+canaima-radiotray-conf (1:0.5-2) unstable; urgency=low
+
+  * Fix error path in postinst file
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Fri, 20 Jan 2012 17:22:29 -0430
+
+canaima-radiotray-conf (1:0.5-1) unstable; urgency=low
+
+  * Fix error path in postinst file
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Fri, 20 Jan 2012 14:38:12 -0430
+
+canaima-radiotray-conf (1:0.5) unstable; urgency=low
+
+  * Change standard version to 3.9.1
+  * Change architecture to any
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Fri, 20 Jan 2012 11:47:20 -0430
+
+canaima-radiotray-conf (1:0.4) unstable; urgency=low
+
+  * Fix error path  in postinst file
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Fri, 20 Jan 2012 11:36:55 -0430
+
+canaima-radiotray-conf (1:0.3) unstable; urgency=low
+
+  * Change posinst file
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Thu, 19 Jan 2012 17:32:14 -0430
+
+canaima-radiotray-conf (1:0.2) unstable; urgency=low
+
+  * Add posinst and /prerm 
+
+ -- Ermesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Thu, 12 Jan 2012 12:02:00 -0430
+
+canaima-radiotray-conf (1:0.1) unstable; urgency=low
+
+  * First release.
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Fri, 23 Dec 2011 10:57:05 -0430
