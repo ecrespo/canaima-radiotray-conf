@@ -4,9 +4,9 @@ Homepage: http://canaima.softwarelibre.gob.ve
 Standards-Version: 3.9.1
 
 Package: canaima-radiotray-conf
-Version: 0.5-3
+Version: 0.6-1
 Maintainer: Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>
-Pre-Depends: radiotray
+Pre-Depends: radiotray,gstreamer0.10-plugins-ugly, gstreamer0.10-pulseaudio, gstreamer0.10-plugins-bad, pulseaudio
 Depends: ${misc:Depends}
 Architecture: all
 Copyright: copyright
