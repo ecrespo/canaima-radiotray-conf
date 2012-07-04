@@ -1,16 +1,20 @@
 <bookmarks>
-    <group name="Venezuela">
-	<bookmark name="RNV Canal Clásico" url="http://www.telepuertovirtual2.tv/rnvclasico "/>
-	<bookmark name="AlbaCiudad 96.3" url="http://radio.albaciudad.org:8000/alba96.mp"/>
-	<bookmark name="RNV noticias" url="http://www.telepuertovirtual2.tv/rnvnoticias"/>
-	<bookmark name="Radio Mágica 106.3 FM" url="http://resorte.solve.web.ve:8000/magicafm.ogg "/>
-	
+    <group name="root">
     </group>
-    <group name="Linux">
-	<bookmark name="SOLVE" url="http://resorte.solve.web.ve:8000/RadioSolve.ogg"/>
-	<bookmark name="Radio Cooperativa Tecnológica Somos Libre Barinas" url="http://resorte.solve.web.ve:8000/RadioSLBarinas.ogg"/>
-	<bookmark name="Radio entreHackers" url="http://resorte.solve.web.ve:8000/entrehackers.ogg"/>
-	<bookmark name="Radio enredate" url="http://resorte.solve.web.ve:8000/enredate.ogg"/>
-	<bookmark name="Radio GNU" url="http://audio.radiognu.org/radiognu.ogg"/>
+    <group name="Medios Publicos">
+        <bookmark name="RNV Canal Clásico" url="http://www.telepuertovirtual2.tv/rnvclasico "/>
+        <bookmark name="AlbaCiudad 96.3" url="http://radio.albaciudad.org:8000/alba96.mp"/>
+        <bookmark name="RNV noticias" url="http://www.telepuertovirtual2.tv/rnvnoticias"/>
+    </group>
+    <group name="Comunidad de Software Libre">
+        <bookmark name="Software Libre Venezuela SOLVE" url="http://resorte.solve.web.ve:8000/RadioSolve.ogg"/>
+        <bookmark name="Radio Cooperativa Tecnológica Somos Libre Barinas" url="http://resorte.solve.web.ve:8000/RadioSLBarinas.ogg"/>
+        <bookmark name="Radio entreHackers" url="http://resorte.solve.web.ve:8000/entrehackers.ogg"/>
+        <bookmark name="Radio enredate" url="http://resorte.solve.web.ve:8000/enredate.ogg"/>
+        <bookmark name="Radio GNU" url="http://audio.radiognu.org/radiognu.ogg"/>
+    </group>
+    <group name="Varios">
+        <bookmark name="Radio Mágica 106.3 FM" url="http://resorte.solve.web.ve:8000/magicafm.ogg"/>
+        <bookmark name="El arado y el mar" url="http://184.82.117.136:9964/"/>
     </group>
 </bookmarks>

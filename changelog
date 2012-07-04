@@ -1,3 +1,10 @@
+canaima-radiotray-conf (1:0.6-2) unstable; urgency=low
+
+  * Fix Enredate URL Bookmarks.
+  * Add Radio El arado y el mar.
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Wed, 04 Jul 2012 13:54:26 -0430
+
 canaima-radiotray-conf (1:0.6-1) unstable; urgency=low
 
   * Fix Alba Ciudad URL Bookmarks.
