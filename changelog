@@ -1,4 +1,18 @@
-canaima-radiotray-conf (1:0.6-2) unstable; urgency=low
+canaima-radiotray-conf (1:0.7) unstable; urgency=low
+
+  * Add gir1.0-gstreamer-0.10 in Pre-Depends.
+  * Add gstreamer0.10-ffmpeg  in Pre-Depends.
+  * Add gstreamer0.10-ffmpeg-dbg in Pre-Depends.
+  * Add gstreamer0.10-nice in Pre-Depends.
+  * Add gstreamer0.10-plugins-base-apps in Pre-Depends.
+  * Add gstreamer0.10-plugins-base in Pre-Depends.
+  * Add libgstreamer-plugins-base0.10-0 in Pre-Depends.
+  * Add gstreamer0.10-plugins-good in Pre-Depends.
+  * Add gstreamer0.10-pulseaudio in Pre-Depends.
+
+ -- Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>  Tue, 07 Aug 2012 09:32:49 -0430
+
+canaima-radiotray-conf (1:0.6-3) unstable; urgency=low
 
   * Remove pulseaudio depends.
 
